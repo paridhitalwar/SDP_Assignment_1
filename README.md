@@ -10,7 +10,7 @@
 Please add a paragraph or two overviewing the objectives of the assignment.
 
 # GitHub Repository Link:
-https://github.com/paridhitalwar/cs-665-assignment-{ASSIGNMENT_1}
+https://github.com/paridhitalwar/SDP_Assignment_1
 
 # Implementation Description
 Thia Java beverage project is structured to manage different types of beverages through an object-oriented design. The core classes include a base Beverage class, and specific subclasses such as Coffee, and Tea each representing different beverage types. This design allows for easy extension and modification.
